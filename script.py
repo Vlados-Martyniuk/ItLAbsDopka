@@ -10,7 +10,7 @@ import time
 COOKIE_BANNER_KEYWORDS = ['cookie', 'consent', 'privacy', 'gdpr', 'рекомендації', 'файли cookie']
 ACCEPT_KEYWORDS = ['accept', 'agree', 'ok', 'allow all', 'прийняти', 'погоджуюсь', 'дозволити всі']
 REJECT_KEYWORDS = ['reject', 'decline', 'deny', 'necessary only', 'відхилити', 'відмовитись']
-POLICY_KEYWORDS = ['privacy & cookies','privacy policy', 'cookie policy', 'політика приватності','політика конфіденційності', 'умови використання сайту', 'політика cookie', 'угода користувача']
+POLICY_KEYWORDS = ['privacy & cookies','privacy policy', 'cookie policy', 'політика приватності','політика конфіденційності', 'умови використання сайту', 'політика cookie', 'угода користувача', 'персональні дані']
 
 #Основна функція для аналізу веб-сайту.
 def analyze_website(url):
@@ -121,7 +121,7 @@ def analyze_website(url):
 
 if __name__ == "__main__":
     # ВКАЖІТЬ САЙТ ДЛЯ ПЕРЕВІРКИ ТУТ 
-    target_url = "https://sinoptik.ua/" 
+    target_url = "https://privatbank.ua/" 
     
     # Запускаємо аналіз
     analysis_results = analyze_website(target_url)

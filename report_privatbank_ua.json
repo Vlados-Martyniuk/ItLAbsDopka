@@ -8,11 +8,11 @@
                 "_ga_C7N2L9YCQ9",
                 "MgidSensorHref",
                 "_ga_7ZKV2DE89M",
-                "pa",
-                "_gcl_au",
                 "MgidSensorNVis",
                 "_fbp",
                 "_ga",
+                "pa",
+                "_gcl_au",
                 "lfp",
                 "fp",
                 "PHPSESSID"
@@ -23,13 +23,14 @@
             "accept_button_found": true,
             "reject_button_found": false
         },
-        "policy_link_found": false
+        "policy_link_found": true,
+        "policy_link_url": "https://privatbank.ua/personal-information"
     },
-    "compliance_score": 25,
+    "compliance_score": 35,
     "summary": [
         "Проблема: Схоже, що відстежуючі або аналітичні cookie встановлюються до отримання згоди. Знайдено 11 cookie.",
         "Інформація: Знайдено банер або текст, що згадує cookie.",
         "Проблема: Відсутня чітка кнопка для відмови від несуттєвих cookie.",
-        "Проблема: Не знайдено посилання на політику конфіденційності або cookie."
+        "Добре: Знайдено посилання на політику: https://privatbank.ua/personal-information"
     ]
 }
