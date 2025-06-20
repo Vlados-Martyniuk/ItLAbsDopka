@@ -1,0 +1,55 @@
+{
+    "url": "https://rozetka.com.ua/",
+    "scan_results": {
+        "initial_cookies_check": {
+            "cookies_found_on_load": 30,
+            "non_essential_cookies_likely_present": true,
+            "details": [
+                "cto_bundle",
+                "ttcsid_C0C21PDOQ3DFKFN9CLR0",
+                "_ttp",
+                "_tt_enable_cookie",
+                "__exponea_time2__",
+                "_gid",
+                "afclid",
+                "_hjSession_3494164",
+                "_hjSessionUser_3494164",
+                "__utmz_gtm",
+                "xl_uid",
+                "cf_clearance",
+                "__exponea_etc__",
+                "city_id",
+                "__cf_bm",
+                "ussapp",
+                "uid",
+                "_ga",
+                "ab_tile_filter",
+                "slang",
+                "ttcsid",
+                "_uss-csrf",
+                "_gcl_au",
+                "_fbp",
+                "xab_segment",
+                "cart-modal",
+                "social-auth",
+                "__rtbh.lid",
+                "ab_test_search",
+                "_ga_3X15VBC9L9"
+            ]
+        },
+        "cookie_banner_found": true,
+        "banner_buttons": {
+            "accept_button_found": false,
+            "reject_button_found": false
+        },
+        "policy_link_found": true,
+        "policy_link_url": "https://rozetka.com.ua/ua/pages/legal_terms/"
+    },
+    "compliance_score": 25,
+    "summary": [
+        "Проблема: Схоже, що відстежуючі або аналітичні cookie встановлюються до отримання згоди. Знайдено 30 cookie.",
+        "Інформація: Знайдено банер або текст, що згадує cookie.",
+        "Проблема: Відсутня чітка кнопка для відмови від несуттєвих cookie.",
+        "Добре: Знайдено посилання на політику: https://rozetka.com.ua/ua/pages/legal_terms/"
+    ]
+}

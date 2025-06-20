@@ -1,0 +1,35 @@
+{
+    "url": "https://sinoptik.ua/",
+    "scan_results": {
+        "initial_cookies_check": {
+            "cookies_found_on_load": 10,
+            "non_essential_cookies_likely_present": true,
+            "details": [
+                "__gads",
+                "_ga",
+                "_pubcid_cst",
+                "_pubcid",
+                "rconf",
+                "__gpi",
+                "sidcd",
+                "_ga_JHYM7N80HT",
+                "__eoi",
+                "sid"
+            ]
+        },
+        "cookie_banner_found": false,
+        "banner_buttons": {
+            "accept_button_found": false,
+            "reject_button_found": false
+        },
+        "policy_link_found": true,
+        "policy_link_url": "https://sinoptik.ua/agreement"
+    },
+    "compliance_score": 10,
+    "summary": [
+        "Проблема: Схоже, що відстежуючі або аналітичні cookie встановлюються до отримання згоди. Знайдено 10 cookie.",
+        "Проблема: Не знайдено явного cookie-банера на сторінці.",
+        "Проблема: Відсутня чітка кнопка для відмови від несуттєвих cookie.",
+        "Добре: Знайдено посилання на політику: https://sinoptik.ua/agreement"
+    ]
+}

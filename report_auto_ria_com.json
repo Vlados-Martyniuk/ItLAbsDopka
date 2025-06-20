@@ -1,0 +1,36 @@
+{
+    "url": "https://auto.ria.com/",
+    "scan_results": {
+        "initial_cookies_check": {
+            "cookies_found_on_load": 11,
+            "non_essential_cookies_likely_present": true,
+            "details": [
+                "_fbp",
+                "_gcl_au",
+                "_504c2",
+                "test_fast_search",
+                "_ga_KGL740D7XD",
+                "news_prior",
+                "Path",
+                "test_new_features",
+                "_ga",
+                "ab-link-video-stories",
+                "chk"
+            ]
+        },
+        "cookie_banner_found": true,
+        "banner_buttons": {
+            "accept_button_found": true,
+            "reject_button_found": false
+        },
+        "policy_link_found": true,
+        "policy_link_url": "https://www.ria.com/uk/offert/gdpr/"
+    },
+    "compliance_score": 35,
+    "summary": [
+        "Проблема: Схоже, що відстежуючі або аналітичні cookie встановлюються до отримання згоди. Знайдено 11 cookie.",
+        "Інформація: Знайдено банер або текст, що згадує cookie.",
+        "Проблема: Відсутня чітка кнопка для відмови від несуттєвих cookie.",
+        "Добре: Знайдено посилання на політику: https://www.ria.com/uk/offert/gdpr/"
+    ]
+}

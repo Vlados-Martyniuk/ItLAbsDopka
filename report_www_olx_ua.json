@@ -1,0 +1,45 @@
+{
+    "url": "https://www.olx.ua/",
+    "scan_results": {
+        "initial_cookies_check": {
+            "cookies_found_on_load": 20,
+            "non_essential_cookies_likely_present": true,
+            "details": [
+                "_ga_TVZPR1MEG9",
+                "_ga",
+                "laquesisff",
+                "onap",
+                "laquesis",
+                "lqstatus",
+                "ab.storage.deviceId.d6bbf693-a714-4ff9-a598-baa9bd848490",
+                "_gcl_au",
+                "ab.storage.sessionId.d6bbf693-a714-4ff9-a598-baa9bd848490",
+                "_cc_id",
+                "_hjSessionUser_2218922",
+                "lotame_domain_check",
+                "session_start_date",
+                "cto_bundle",
+                "deviceGUID",
+                "ldTd",
+                "_hjSession_2218922",
+                "panoramaId_expiry",
+                "__gfp_64b",
+                "lang"
+            ]
+        },
+        "cookie_banner_found": true,
+        "banner_buttons": {
+            "accept_button_found": true,
+            "reject_button_found": false
+        },
+        "policy_link_found": true,
+        "policy_link_url": "https://help.olx.ua/olxuahelp/s/article/політика-конфіденційності-V27"
+    },
+    "compliance_score": 35,
+    "summary": [
+        "Проблема: Схоже, що відстежуючі або аналітичні cookie встановлюються до отримання згоди. Знайдено 20 cookie.",
+        "Інформація: Знайдено банер або текст, що згадує cookie.",
+        "Проблема: Відсутня чітка кнопка для відмови від несуттєвих cookie.",
+        "Добре: Знайдено посилання на політику: https://help.olx.ua/olxuahelp/s/article/політика-конфіденційності-V27"
+    ]
+}
